@@ -101,16 +101,21 @@ Home will always show your top three follows from each category. Currently, this
 
 #### Configuring your Home
 By pressing the Configure button at the top of the page, you are able to reorder or hide the sections you see in Home.
+
 ![MRT Configure Button Preview](https://github.com/pixalate-inc/mrt-slack-guide/blob/master/Images/mrt_configure_btn.png?raw=true)
+
 ![MRT Configure Window Preview](https://github.com/pixalate-inc/mrt-slack-guide/blob/master/Images/mrt_configure_window.png?raw=true)
 
 You can reorder or hide each section by pressing the `...` menu to the right of each row. From there, you can see options to move or hide the section.
+
 ![MRT Reorder Dropdown Preview](https://github.com/pixalate-inc/mrt-slack-guide/blob/master/Images/mrt_reorder_dropdown.png?raw=true)
 
 If you've hidden a section, you can restore it via the "Add a section..." dropdown.
+
 ![MRT Restore Section Preview](https://github.com/pixalate-inc/mrt-slack-guide/blob/master/Images/mrt_restore_section.png?raw=true)
 
 Additionally, you can reset the layout to default using the Reset Layout button.
+
 ![MRT Reset Layout Preview](https://github.com/pixalate-inc/mrt-slack-guide/blob/master/Images/mrt_reset_layout.png?raw=true)
 
 Once you're satisfied, you can save your new layout by pressing the Save button. You can also discard any changes you've made with the Cancel button, or by clicking the X button in the upper right.
