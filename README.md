@@ -45,8 +45,7 @@ You may pass either the app name, the bundle id, or the app id to retrieve the a
 ```
 
 #### Sample Output
-
-![[Pasted image 20220317140625.png]]
+![MRT App Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_app_preview.png?raw=true)
 
 ### CTV Search
 
@@ -62,7 +61,7 @@ CTV search only supports passing explicit app ids to retrieve the associated app
 ```
 
 #### Sample Output
-![[Pasted image 20220407012447.png]]
+![MRT CTV Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_ctv_preview.png?raw=true)
 
 ### Website Search
 
@@ -77,20 +76,8 @@ The details provided in the output are a brief overview of key metrics associate
 ```
 
 #### Sample Output
-![[Pasted image 20220317141559.png]]
+![MRT Domain Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_domain_preview.png?raw=true)
 
-### App Search
-The App Search command allows you to retrieve general information about a website from within Slack. It also includes a link to view the app within the MRT, as well as the ability to follow the app from within Slack.
-
-The details provided in the output are a brief overview of key metrics associated with the app. These cannot be customized at this time.
-
-#### Usage
-```
-/mrt app <name|bundle_id|app_id>
-```
-
-#### Sample Output
-![[Pasted image 20220407012411.png]]
 ### Account
 
 The Account command allows you to manage your connection between the MRT and Slack.
@@ -103,8 +90,8 @@ The Account command allows you to manage your connection between the MRT and Sla
 ```
 
 #### Sample Output
-![[Pasted image 20220407012657.png]]
-![[Pasted image 20220407012800.png]]
+![MRT Account Logged Out Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_account_logged_out.png?raw=true)
+![MRT Account Logged In Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_account_logged_in.png?raw=true)
 
 ## Home
 Your MRT Slack home page can show you a summary of your top follows, as well as convenient links to view them in the MRT console when you've connected your account.
@@ -113,15 +100,16 @@ Home will always show your top three follows from each category. Currently, this
 
 #### Configuring your Home
 By pressing the Configure button at the top of the page, you are able to reorder or hide the sections you see in Home.
-![[Pasted image 20220407013104.png]]
-![[Pasted image 20220407013125.png]]
+![MRT Configure Button Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_configure_btn.png?raw=true)
+![MRT Configure Window Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_configure_window.png?raw=true)
+
 You can reorder or hide each section by pressing the `...` menu to the right of each row. From there, you can see options to move or hide the section.
-![[Pasted image 20220407013215.png]]
+![MRT Reorder Dropdown Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_reorder_dropdown.png?raw=true)
 
 If you've hidden a section, you can restore it via the "Add a section..." dropdown.
-![[Pasted image 20220407013529.png]]
+![MRT Restore Section Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_restore_section.png?raw=true)
 
 Additionally, you can reset the layout to default using the Reset Layout button.
-![[Pasted image 20220407013648.png]]
+![MRT Reset Layout Preview](/pixalate-inc/mrt-slack-guide/blob/master/mrt_reset_layout.png?raw=true)
 
 Once you're satisfied, you can save your new layout by pressing the Save button. You can also discard any changes you've made with the Cancel button, or by clicking the X button in the upper right.
